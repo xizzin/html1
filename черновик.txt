@@ -1,0 +1,46 @@
+<div>
+
+	<div>
+		<p>Services</p>
+		
+			<p>Strategy Design</p>
+
+			<p class="footer-text">Product Design</p>
+
+			<p class="footer-text">Content Strategy</p>
+
+			<p class="footer-text">Brand Strategy</p>
+
+			<p class="footer-text">Development</p>
+		
+	</div>
+    
+	<div>
+		<p class="footer-text-title">Help And Advice</p>	
+			<p class="footer-text">How it works</p>
+
+			<p class="footer-text">Contact Support</p>
+
+			<p class="footer-text">Privacy Policy</p>
+
+			<p class="footer-text">FAQ</p>	
+	</div>
+    
+	<div>
+		<p class="footer-text-title">Company</p>
+			<p class="footer-text">About</p>
+
+			<p class="footer-text">Blog</p>
+
+			<p class="footer-text">Contact</p>
+
+			<p class="footer-text">Jobs</p>
+	</div>
+    
+	<div>
+		<p class="footer-text-title">Get in Touch</p>
+		<p class="footer-text">Feel free to get in touch with us vai email</p>
+		<p>info.webovio@gmail.com</p>
+		<p><img src="../imgs/socmed.svg" width="100%" height="100%"></img></p>
+	</div>
+</div>
